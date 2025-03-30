@@ -1,18 +1,27 @@
-Font Awesome Pro License
-------------------------
 
-Font Awesome Pro is commercial software that requires a paid license. Full
-Font Awesome Pro license: https://fontawesome.com/license.
+https://program09.github.io/myicons/css/...
 
-# Commercial License
-The Font Awesome Pro commercial license allows you to pay for FA Pro once, own
-it, and use it just about everywhere you'd like.
+## all.css
+## all.min.css
 
-# Attribution
-Attribution is not required by the Font Awesome Pro commercial license.
+## brands.css
+## brands.min.css
 
-# Brand Icons
-All brand icons are trademarks of their respective owners. The use of these
-trademarks does not indicate endorsement of the trademark holder by Font
-Awesome, nor vice versa. **Please do not use brand logos for any purpose except
-to represent the company, product, or service to which they refer.**
+## duotone.css
+## duotone.min.css
+## duotone-light.css
+## duotone-light.min.css
+## duotone-regular.css
+## duotone-regular.min.css
+## duotone-thin.css
+## duotone-thin.min.css
+
+## fontawesome.css
+## fontawesome.min.css
+
+## light.css
+## light.min.css
+
+## regular.css
+### regular.min.css
+
